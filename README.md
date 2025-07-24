@@ -1,6 +1,7 @@
 # NBA MVP Predictor
+*Project completed: June 2025*
 
-Analysis of NBA mvp voting results, player statistics, and team performace data to predict MVP winners using Python and machine learning. Created in June 2025.
+Analysis of NBA mvp voting results, player statistics, and team performace data to predict MVP winners using Python and machine learning.
 
 ## Overview
 Built a Random Forest classifier that analyzes NBA player, team, and mvp voting data from 1991-2024 and predicts MVP voting rankings. This project was based on the 3-part tutorial series by Dataquest. 
