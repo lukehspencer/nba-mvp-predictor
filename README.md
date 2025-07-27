@@ -12,7 +12,7 @@ Built a Random Forest classifier that analyzes NBA player, team, and mvp voting 
 - Historical MVP voting results
 
 ## Files & Folders
-- `mvp.ipynb` - Web scrape data from BasketballReference
+- `mvp.ipynb` - Web scrape data from Basketball Reference
 - `data_cleaning.ipynb` - Data preprocessing and cleaning
 - `model.ipynb` - Machine learning model development
 - `mvps.csv` - MVP voting dataset
