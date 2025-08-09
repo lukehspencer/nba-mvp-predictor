@@ -23,11 +23,6 @@ Built a Random Forest classifier that analyzes NBA player, team, and mvp voting 
 - `data/` - folder containing HTML files of MVP voting data 
 - `team/` - folder containing HTML files of team performance data
 
-## Usage
-1. Clone the repository
-2. Install libraries listed below
-3. Run the Jupyter notebooks in order
-
 ## Results
 The random forest model achieved a mean average precision score of 75.5% after running an expanding-window backtest from 1996-2024.
 
