@@ -1,5 +1,5 @@
 # NBA MVP Predictor
-*June 2025*
+*Jun 2025*
 
 Analysis of NBA mvp voting results, player statistics, and team performace data to predict MVP winners using Python and machine learning.
 
