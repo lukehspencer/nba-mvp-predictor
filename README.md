@@ -1,7 +1,7 @@
 # NBA MVP Predictor
 *Jun 2025*
 
-Analysis of NBA mvp voting results, player statistics, and team performace data to predict MVP winners using Python and machine learning.
+Predict NBA MVP winners by analyzing NBA mvp voting results, player statistics, and team performace data.
 
 ## Overview
 Built a Random Forest classifier that analyzes NBA player, team, and mvp voting data from BasketballReference between 1991-2024 and predicts MVP voting rankings. This project was based on the 3-part tutorial series by Dataquest. 
